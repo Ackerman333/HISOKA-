@@ -541,16 +541,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('──「 MENU SEWA 」──
-
-Hi 👋🏻
-```DANA : 082275576880```
-```PULSA : 082376857278```
-
-*10k / Group Permanen (Sampe bot kebanned)*
-
-Untuk detail hubungi owner wa.me/6282275576880
- ──「 THX FOR YOU ! 」──')
+                m.reply('Silahkan hubungi owner wa.me/6282275576880')
             }
             break
             case 'chat': {
